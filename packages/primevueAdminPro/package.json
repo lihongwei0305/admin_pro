@@ -1,0 +1,30 @@
+{
+  "name": "primevueadminpro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.1.3",
+    "pinia-plugin-persist": "^1.0.0",
+    "primevue": "^3.29.1",
+    "sass": "^1.62.1",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.1"
+  },
+  "devDependencies": {
+    "@unocss/preset-attributify": "^0.51.13",
+    "@unocss/preset-icons": "^0.51.13",
+    "@unocss/preset-uno": "^0.51.13",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "unocss": "^0.51.13",
+    "vite": "^4.3.2"
+  }
+}
